@@ -4,3 +4,4 @@
 4)git commit -m "intial commit"
 5) git log
 6)git add file name
+
